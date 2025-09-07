@@ -33,16 +33,10 @@ AnalystBud is a project focused on creating a conversational analytics tool. It 
    ```
 
 3. **Run the project:**
-   Instructions for running will depend on the entry point (scripts or notebooks), which should be present in the repo.
+   `streamlit run app.py`
 
 ## Usage
 
 The tool is designed to allow analysts to interact with their data in a conversational manner, leveraging language models to generate code and perform analytics tasks. See the project files and documentation for specific usage details.
 
-## License
 
-No license information has been specified for this project.
-
-## Contact
-
-For more information, visit the [repository](https://github.com/pbhat89/AnalystBud) or contact [pbhat89](https://github.com/pbhat89).
